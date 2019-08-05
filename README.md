@@ -7,8 +7,11 @@ Fear not! I have the steps below. (video coming soon!)
 
 **What you'll need open:**
 A terminal window
+
 **TIP** You can also use Visual Studio Code for its terminal as well. I leave this up to you.
+
 Android Studio, or whichever IDE you're using to generate a new project.
+
 Your browser of choice open to your dashboard at https://github.com/
 
 Step 1: Create a new project locally
